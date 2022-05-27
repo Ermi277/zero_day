@@ -1,1 +1,1 @@
-*Empahsize* hello this is my first push from vagrant
+*Emphasize* hello this is my first push from vagrant
